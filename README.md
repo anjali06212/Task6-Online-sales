@@ -1,4 +1,4 @@
-#Online Sales Trend Analysis
+Online Sales Trend Analysis
 By: Anjali DS
 
 Description
